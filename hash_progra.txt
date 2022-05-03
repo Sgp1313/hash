@@ -1,0 +1,8 @@
+#Que es un hash?							
+#Hash es un algoritmo matematico que convierte un grupo de datos (como un nombre o una palabra)							
+# y lo con vierte en una serie de caracteres que siempre va ateneer el mismo numero de digitos. 							
+							
+#Que es un hash SHA-1? 							
+							
+#Es una funcion de hash que combina letras y numeros para llegar a un total de 40 cifras							
+# por ejemplo: sebastian = 2281f348b9e7743a22560fb3977756573c447081 							
