@@ -30,17 +30,3 @@ with open(file, 'rb') as f:
 
 print (file_hash.hexdigest()) 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
